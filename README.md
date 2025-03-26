@@ -1,2 +1,2 @@
 # DskML
-An offline version of Mystera Legacy
+An updated version of Mystera Legacy client
