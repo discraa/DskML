@@ -1,2 +1,2 @@
 # DskML
-An updated version of Mystera Legacy client
+An updated version of Mystera Legacy's client
