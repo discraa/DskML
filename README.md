@@ -2,7 +2,7 @@
 An updated version of Mystera Legacy's client
 
 All assets used are from their respective owners, i do not own them.
-You can find more about the artists:
+<br>You can find more about the artists:
 FinalBossBlues / Timefantasy
 Henry Software
 7Soul
