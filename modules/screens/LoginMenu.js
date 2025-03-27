@@ -1,5 +1,5 @@
-import Button from './modules/classes/Button.js';
-import TextInput from './modules/classes/TextInput.js';
+import Button from '../classes/Button.js';
+import TextInput from '../classes/TextInput.js';
 
 export default class LoginMenu extends PIXI.Sprite {
   constructor() {
