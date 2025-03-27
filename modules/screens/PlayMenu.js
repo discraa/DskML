@@ -1,4 +1,4 @@
-import Button from '../classes/Button.js';
+import Button from './../classes/Button.js';
 
 export default class PlayMenu extends PIXI.Sprite {
   constructor() {
