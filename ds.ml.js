@@ -1,6 +1,6 @@
-import Button from '/modules/classes/Button.js';
-import PlayMenu from '/modules/screens/PlayMenu.js';
-import LoginMenu from '/modules/screens/LoginMenu.js';
+import Button from './modules/classes/Button.js';
+import PlayMenu from './modules/screens/PlayMenu.js';
+import LoginMenu from './modules/screens/LoginMenu.js';
 
 (async () => {
   /* Setup */
